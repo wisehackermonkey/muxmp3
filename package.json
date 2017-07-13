@@ -1,0 +1,20 @@
+{
+  "name": "muxmp3",
+  "version": "1.0.0",
+  "description": "downloads youtube videos to mp3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "download",
+    "youtube",
+    "music"
+  ],
+  "author": "wisemonkey",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^0.14.4"
+  }
+}
