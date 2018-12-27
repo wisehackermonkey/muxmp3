@@ -1,5 +1,11 @@
 # muxmp3
-youtube music downloader
+youtube music downloader using node.js
+```
+wisemonkey
+oranbusiness@gmail.com
+2018XXXXXXXXXXXXXXXXXXXXXXXXX
+github.com/wisehackermonkey
+```
 
-this is a node.js youtube to downloader as mp3 program
-
+## Description 
+the program downloads youtube videos as mp3 
